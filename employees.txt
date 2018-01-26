@@ -1,0 +1,9 @@
+contractor,John,Smith,2000-05-12,null,Blizzard,null,Maik Morhaim,jsmith@blizzard.com,+353852554178
+generalemployee,Mick,Jansen,1943-07-26,260000.0,null,GM,null,mick.jansen@gmail.com,+353871574567
+guest,Sergey,Dolya,null,null,Photo Pro,null,Mikhail Tun,dolya@gmail.com,+79031567623
+contractor,John,Smith,2000-05-12,null,Blizzard,null,Maik Morhaim,jsmith@blizzard.com,+353852554178
+generalemployee,Mick,Jansen,1943-07-26,260000.0,null,GM,null,mick.jansen@gmail.com,+353871574567
+guest,Sergey,Dolya,null,null,Photo Pro,null,Mikhail Tun,dolya@gmail.com,+79031567623
+contractor,John,Smith,2000-05-12,null,Blizzard,null,Maik Morhaim,jsmith@blizzard.com,+353852554178
+generalemployee,Mick,Jansen,1943-07-26,260000.0,null,GM,null,mick.jansen@gmail.com,+353871574567
+guest,Sergey,Dolya,null,null,Photo Pro,null,Mikhail Tun,dolya@gmail.com,+79031567623
